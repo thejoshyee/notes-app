@@ -8,6 +8,8 @@ This project is for Scrimba's Front-End Developer Career Path where we use React
 	- Lazy State / State
 - Local Storage
 
+## Preview
+<img src="" width="50%" />
 
 Quick start:
 
