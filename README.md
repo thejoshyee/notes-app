@@ -9,7 +9,7 @@ This project is for Scrimba's Front-End Developer Career Path where we use React
 - Local Storage
 
 ## Preview
-<img src="" width="50%" />
+<img src="https://github.com/thejoshyee/notes-app/blob/main/notes-preview.png" width="50%" />
 
 Quick start:
 
